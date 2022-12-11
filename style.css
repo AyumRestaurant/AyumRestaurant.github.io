@@ -1,0 +1,175 @@
+/*paragrahp styles*/
+@import url('https://fonts.googleapis.com/css2?family=Lora:ital@1&display=swap');
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Alfa Slab One', cursive;
+}
+body {
+    justify-content: center;
+}
+strong.h1 {
+    color: #fff;
+    background-color: #f9b60a;
+    padding: 20px;
+    border: 5px solid skyblue;
+}
+.p1 strong {
+    color: #fff;
+}
+h2 {
+    font-family: 'sans-serif;', cursive;
+}
+p.p1 {
+    text-align: center;
+    font-size: 50px;
+    padding-top: 45px;
+    padding-bottom: 40px;
+}
+.container {
+    width: 1400px;
+    margin: 0 auto;
+}
+.container1 {
+    text-align: center;
+}
+
+header {
+    background: #9d1c34;
+    padding: 25px;
+}
+button {
+    padding: 10px 20px;
+    border: 1px solid #3498db;
+    border-radius: 20px;
+    background: red;
+    color: #fff;
+    font-size: 20px;
+    font-family: "montserrat";
+    cursor: pointer;
+    margin: 10px;
+    transition: 0.8s;
+    position: relative;
+    overflow: hidden;
+}
+button:hover {
+    color: #3498db;
+}
+
+.container{
+
+    position: relative;
+    width:1100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.container .card{
+    width:308px;
+    position: relative;
+    height: 400px;
+    background: #f0f0f0;
+    margin:30px 10px;
+    padding: 20px 15px;
+    display:flex;
+    flex-direction: column;
+    box-shadow: 0.5px 10px #e6e6e6;
+    transition:0.3s ease-in-out;
+    margin-top: 5%;
+}
+.container .card .imgBx{
+    position: relative;
+    width:260px;
+    height: 260px;
+    top: -60px;
+    left:20px;
+    box-shadow: 0 5px 20px rbga (0,0,0,1.2);
+}
+
+.container .card .imgBx img
+{
+    max-width: 100%;
+    border-radius: 10px;
+}
+
+.imgBx:hover img{
+    transform: scale(1.1);
+}
+.
+}
+.img1 {
+    text-align: center;
+}
+.logo-container {
+    display: inline-block;
+    margin: 20px;
+    margin-top: 50px;
+}
+.logo-container img {
+    width: 100px;
+}
+.nav-container {
+    text-align: right;
+    padding-top: 25px;
+    float: right;
+    font-size: 20px;
+}
+nav.header-navigation a {
+    font-size: 20px;
+    text-decoration: none;
+    margin: 40px;
+    color: #fff;
+    font-family: 'Alfa Slab One', cursive;
+}
+nav.header-navigation a:hover {
+    color: #3498db;
+}
+section.section1 {
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-image: url('image/banner2.jpg');
+    height: 105vh
+}
+section.about-section {
+    padding: 50px;
+}
+section.section2 {
+    background-color: #587fa1;
+    padding-bottom: 125px;
+}
+.section2-container {
+    pa
+    background-color: #d76913;
+    height: 110vh;
+}
+.icon-container {
+    
+}
+.icon-container i {
+    margin: 25px;
+}
+.banner {
+    text-align: center;
+    color: #fff;
+    padding: 130px;
+    }
+.banner h1 {
+    font-size: 45px;
+    padding-top: 15%;
+}
+.about-section h2{
+    text-align: center;
+    font-size: 45px;
+    margin-bottom: 20px;
+}
+.about-img1 {
+    display: inline-block;
+    width: 50%;
+}
+
+
+/*styles*/
+
